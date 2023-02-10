@@ -5,3 +5,7 @@ zdravá životospráva a celkovo zdravý životný štýl.
 H2:
 Byt efektívny a doťahovať veci do konca. Byť čo najviac produktívny a nebrať
 prácu na ľahkú váhu. 
+
+H3:
+Udržiavať kod jednoduchý, zbytočne nevymýšlat komplikované riešenia aby 
+sme sami po sebe aj druhý po nás vedeli čítat kód a rozumeli mu. 
