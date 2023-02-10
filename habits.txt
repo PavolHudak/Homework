@@ -13,3 +13,8 @@ sme sami po sebe aj druhý po nás vedeli čítat kód a rozumeli mu.
 H4:
 Mať svoju chvílku pozornosti :). Ak sa dostaneme do taheho flowu, že nám to myslí
 tak v tom čo najdlhšie vydržat bez rušivých elementov. 
+
+H5:
+Neustále sa učit a zdokonalovať v programovaní a technológiach je potrebné
+aby sme nestagnovali v našej pozícii, nespadli do rutiny. 
+Technológie sa zdokonaľujú neustále, preto je nutné sa im prispôsobiť. 
