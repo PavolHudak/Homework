@@ -18,3 +18,8 @@ H5:
 Neustále sa učit a zdokonalovať v programovaní a technológiach je potrebné
 aby sme nestagnovali v našej pozícii, nespadli do rutiny. 
 Technológie sa zdokonaľujú neustále, preto je nutné sa im prispôsobiť. 
+
+H6: 
+Treba pochopiť, že programovanie nieje sólo záležitosť. 
+V spolupráci s viacerími kolegami dokážebe byť efektívnejši
+a nájsť správne riešenie oveľa rýchlejšie.
