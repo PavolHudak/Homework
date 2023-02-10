@@ -9,3 +9,7 @@ prácu na ľahkú váhu.
 H3:
 Udržiavať kod jednoduchý, zbytočne nevymýšlat komplikované riešenia aby 
 sme sami po sebe aj druhý po nás vedeli čítat kód a rozumeli mu. 
+
+H4:
+Mať svoju chvílku pozornosti :). Ak sa dostaneme do taheho flowu, že nám to myslí
+tak v tom čo najdlhšie vydržat bez rušivých elementov. 
